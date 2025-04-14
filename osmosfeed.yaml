@@ -7,3 +7,5 @@ cacheUrl: https://rezzzzzzzzzzzzzz.github.io/rss/cache.json
 sources:
   - href: http://lesswrong.com/.rss
   - href: http://setosa.io/blog/feed.xml
+  - href: http://www.hackaday.com/rss.xml
+  - href: http://setosa.io/blog/feed.xml
