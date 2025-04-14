@@ -2,8 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rezzzzzzzzzzzzzz.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-14T08:28:54.689Z</updated>
+    <updated>2025-04-14T08:31:27.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rezzzzzzzzzzzzzz.github.io/rss/index.html"/>
     <link rel="self" href="https://rezzzzzzzzzzzzzz.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Tricky Commodore PET Repair and a Lesson About Assumptions]]></title>
+        <id>https://hackaday.com/?p=771499</id>
+        <link href="https://hackaday.com/2025/04/14/a-tricky-commodore-pet-repair-and-a-lesson-about-assumptions/"/>
+        <updated>2025-04-14T08:00:25.000Z</updated>
+        <summary type="html"><![CDATA[An unavoidable part of old home computer systems and kin like the Commodore PET is that due to the age of their components they will develop issues that go far …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Infrared Remote Control Protocols]]></title>
+        <id>https://hackaday.com/?p=771413</id>
+        <link href="https://hackaday.com/2025/04/13/introducing-infrared-remote-control-protocols/"/>
+        <updated>2025-04-14T05:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Over on his YouTube channel [Electronic Wizard] has released a video that explains how infrared (IR) remote controllers work: IR Remote Controllers protocol: 101 to advanced. This video covers the …read more]]></summary>
+        <author>
+            <name>John Elliot V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ProStar: the Portable Gaming System and Laptop From 1995]]></title>
+        <id>https://hackaday.com/?p=771464</id>
+        <link href="https://hackaday.com/2025/04/13/the-prostar-the-portable-gaming-system-and-laptop-from-1995/"/>
+        <updated>2025-04-14T02:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Whilst recently perusing the fine wares for sale at the Vintage Computer Festival East, [Action Retro] ended up adopting a 1995 ProStar laptop. Unlike most laptops of the era, however, …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackaday Links: April 13, 2025]]></title>
+        <id>https://hackaday.com/?p=770864&amp;preview=true&amp;preview_id=770864</id>
+        <link href="https://hackaday.com/2025/04/13/hackaday-links-april-13-2025/"/>
+        <updated>2025-04-13T23:00:06.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a while since we’ve dunked on an autonomous taxi foul-up, mainly because it seemed for a while there that most of the companies field testing driverless ride-sharing services …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Printed Milling Machine is Solid as a Rock]]></title>
+        <id>https://hackaday.com/?p=771428</id>
+        <link href="https://hackaday.com/2025/04/13/3d-printed-milling-machine-is-solid-as-a-rock/"/>
+        <updated>2025-04-13T20:00:21.000Z</updated>
+        <summary type="html"><![CDATA[There are no shortage of CNC machines in the DIY space these days, but sometimes you just need to do things your own way. That’s what [Chris Borges] decided when …read more]]></summary>
+        <author>
+            <name>Tyler August</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Spade Hardware Description Language]]></title>
+        <id>https://hackaday.com/?p=771441</id>
+        <link href="https://hackaday.com/2025/04/13/the-spade-hardware-description-language/"/>
+        <updated>2025-04-13T17:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Spade is an open-source hardware description language (HDL) developed at Linköping University, Sweden. Other HDLs you might have heard of include Verilog and VHDL. Hardware engineers use HDLs to define …read more]]></summary>
+        <author>
+            <name>John Elliot V</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Satisfy Your High-Voltage Urges with This Printable Flyback Transformer]]></title>
+        <id>https://hackaday.com/?p=771201</id>
+        <link href="https://hackaday.com/2025/04/13/satisfy-your-high-voltage-urges-with-this-printable-flyback-transformer/"/>
+        <updated>2025-04-13T14:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Sick of raiding old TVs and CRT monitors for flyback transformers to feed your high-voltage addiction? Never fear; if you’re careful, a 3D-printed flyback might be just the thing you’re …read more]]></summary>
+        <author>
+            <name>Dan Maloney</name>
+        </author>
+    </entry>
 </feed>

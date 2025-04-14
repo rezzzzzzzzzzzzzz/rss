@@ -5,6 +5,89 @@
       "feedUrl": "http://setosa.io/blog/feed.xml",
       "siteUrl": "http://setosa.io/blog",
       "articles": []
+    },
+    {
+      "title": "Blog – Hackaday",
+      "feedUrl": "http://www.hackaday.com/rss.xml",
+      "siteUrl": "https://hackaday.com",
+      "articles": [
+        {
+          "id": "https://hackaday.com/?p=771499",
+          "author": "Maya Posch",
+          "description": "An unavoidable part of old home computer systems and kin like the Commodore PET is that due to the age of their components they will develop issues that go far …read more",
+          "link": "https://hackaday.com/2025/04/14/a-tricky-commodore-pet-repair-and-a-lesson-about-assumptions/",
+          "publishedOn": "2025-04-14T08:00:25.000Z",
+          "wordCount": 2569,
+          "title": "A Tricky Commodore PET Repair and a Lesson About Assumptions",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/commodore_pet_bad-chips_ken_shirriff.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=771413",
+          "author": "John Elliot V",
+          "description": "Over on his YouTube channel [Electronic Wizard] has released a video that explains how infrared (IR) remote controllers work: IR Remote Controllers protocol: 101 to advanced. This video covers the …read more",
+          "link": "https://hackaday.com/2025/04/13/introducing-infrared-remote-control-protocols/",
+          "publishedOn": "2025-04-14T05:00:03.000Z",
+          "wordCount": 2563,
+          "title": "Introducing Infrared Remote Control Protocols",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/elewizard-ir.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=771464",
+          "author": "Maya Posch",
+          "description": "Whilst recently perusing the fine wares for sale at the Vintage Computer Festival East, [Action Retro] ended up adopting a 1995 ProStar laptop. Unlike most laptops of the era, however, …read more",
+          "link": "https://hackaday.com/2025/04/13/the-prostar-the-portable-gaming-system-and-laptop-from-1995/",
+          "publishedOn": "2025-04-14T02:00:14.000Z",
+          "wordCount": 2696,
+          "title": "The ProStar: the Portable Gaming System and Laptop From 1995",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/1995_laptop_with_integrated_controller_action_retro_youtube.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=770864&preview=true&preview_id=770864",
+          "author": "Dan Maloney",
+          "description": "It’s been a while since we’ve dunked on an autonomous taxi foul-up, mainly because it seemed for a while there that most of the companies field testing driverless ride-sharing services …read more",
+          "link": "https://hackaday.com/2025/04/13/hackaday-links-april-13-2025/",
+          "publishedOn": "2025-04-13T23:00:06.000Z",
+          "wordCount": 2947,
+          "title": "Hackaday Links: April 13, 2025",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2014/11/had-links-banner.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=771428",
+          "author": "Tyler August",
+          "description": "There are no shortage of CNC machines in the DIY space these days, but sometimes you just need to do things your own way. That’s what [Chris Borges] decided when …read more",
+          "link": "https://hackaday.com/2025/04/13/3d-printed-milling-machine-is-solid-as-a-rock/",
+          "publishedOn": "2025-04-13T20:00:21.000Z",
+          "wordCount": 4877,
+          "title": "3D Printed Milling Machine is Solid as a Rock",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/concrete-mill-header.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=771441",
+          "author": "John Elliot V",
+          "description": "Spade is an open-source hardware description language (HDL) developed at Linköping University, Sweden. Other HDLs you might have heard of include Verilog and VHDL. Hardware engineers use HDLs to define …read more",
+          "link": "https://hackaday.com/2025/04/13/the-spade-hardware-description-language/",
+          "publishedOn": "2025-04-13T17:00:18.000Z",
+          "wordCount": 2754,
+          "title": "The Spade Hardware Description Language",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/spade-lang.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=771201",
+          "author": "Dan Maloney",
+          "description": "Sick of raiding old TVs and CRT monitors for flyback transformers to feed your high-voltage addiction? Never fear; if you’re careful, a 3D-printed flyback might be just the thing you’re …read more",
+          "link": "https://hackaday.com/2025/04/13/satisfy-your-high-voltage-urges-with-this-printable-flyback-transformer/",
+          "publishedOn": "2025-04-13T14:00:33.000Z",
+          "wordCount": 2983,
+          "title": "Satisfy Your High-Voltage Urges with This Printable Flyback Transformer",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/flyback.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "Setosa blog",
+      "feedUrl": "http://setosa.io/blog/feed.xml",
+      "siteUrl": "http://setosa.io/blog",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
