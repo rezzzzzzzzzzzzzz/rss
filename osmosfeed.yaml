@@ -2,7 +2,7 @@
 # Full reference
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
-
+siteTitle: "Rezz::feed"
 cacheUrl: https://rezzzzzzzzzzzzzz.github.io/rss/cache.json
 sources:
   - href: http://lesswrong.com/.rss
