@@ -12,6 +12,76 @@
       "siteUrl": "https://hackaday.com",
       "articles": [
         {
+          "id": "https://hackaday.com/?p=771582",
+          "author": "Lewin Day",
+          "description": "A tornado can be an awe-inspiring sight, but it can also flip your car, trash your house, and otherwise injure you with flying debris. If you’d like to look at …read more",
+          "link": "https://hackaday.com/2025/04/14/building-a-diy-tornado-tower/",
+          "publishedOn": "2025-04-15T05:00:59.000Z",
+          "wordCount": 2538,
+          "title": "Building A DIY Tornado Tower",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/pict-3-motor-speeds-e1744617542851.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=770448",
+          "author": "Maya Posch",
+          "description": "A major bottleneck with high-frequency wireless communications is the conversion from radio frequencies to optical signals and vice versa. This is performed by an electro-optic modulator (EOM), which generally are …read more",
+          "link": "https://hackaday.com/2025/04/14/plasmonic-modulators-directly-convert-terahertz-waves-to-optical-signals/",
+          "publishedOn": "2025-04-15T02:00:45.000Z",
+          "wordCount": 2479,
+          "title": "Plasmonic Modulators Directly Convert Terahertz Waves to Optical Signals",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/nl-2015-040255_0007.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=771069&preview=true&preview_id=771069",
+          "author": "Aaron Beckendorf",
+          "description": "Amazing as volumetric displays are, they have one major drawback: interacting with them is complicated. A 3D mouse is nice, but unless you’ve done a lot of CAD work, it’s …read more",
+          "link": "https://hackaday.com/2025/04/14/elastic-bands-enable-touchable-volumetric-display/",
+          "publishedOn": "2025-04-14T23:00:42.000Z",
+          "wordCount": 2763,
+          "title": "Elastic Bands Enable Touchable Volumetric Display",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/Screenshot-From-2025-04-13-16-41-27.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=771581",
+          "author": "Lewin Day",
+          "description": "There’s something cool about the visual design language used in the aviation world. You probably don’t get much exposure to it if you’re not regularly flying a plane, but there …read more",
+          "link": "https://hackaday.com/2025/04/14/esp32-powered-clock-brings-aviation-style-to-your-desk/",
+          "publishedOn": "2025-04-14T20:00:47.000Z",
+          "wordCount": 2731,
+          "title": "ESP32-Powered Clock Brings Aviation Style To Your Desk",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/Aviator-Clock-Starts-up-fetches-time-from-the-internet-and-sets-the-time-0-22-screenshot.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=771580",
+          "author": "Lewin Day",
+          "description": "The C64 Mini is a beautiful and functional replica of the most popular computer ever made, except at 50% size and without a working keyboard. For maximum nostalgia, it was …read more",
+          "link": "https://hackaday.com/2025/04/14/converting-the-c64-mini-into-a-c64c/",
+          "publishedOn": "2025-04-14T18:30:00.000Z",
+          "wordCount": 2642,
+          "title": "Converting the C64 Mini Into A C64C",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/What-if-Commodore-C64C-Mini-with-working-Petscii-Keyboard-7-43-screenshot.png"
+        },
+        {
+          "id": "https://hackaday.com/?p=771616",
+          "author": "Al Williams",
+          "description": "The best kind of Hackaday posts are the ones where there was some insurmountable problem with an elegant solution devised through deep analysis of the problem and creativity. This is …read more",
+          "link": "https://hackaday.com/2025/04/14/linux-fu-stopping-a-runaway/",
+          "publishedOn": "2025-04-14T17:00:11.000Z",
+          "wordCount": 5274,
+          "title": "Linux Fu: Stopping a Runaway",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2020/05/LinuxFu.jpg"
+        },
+        {
+          "id": "https://hackaday.com/?p=771487",
+          "author": "Jenny List",
+          "description": "The ESP32 series of microprocessors with their cheap high-power cores and built-in wireless networking have brought us a wide variety of impressive projects over the years. We’re not sure we’ve …read more",
+          "link": "https://hackaday.com/2025/04/14/a-cheap-yellow-display-makes-a-video-walkie-talkie/",
+          "publishedOn": "2025-04-14T15:30:00.000Z",
+          "wordCount": 2425,
+          "title": "A Cheap Yellow Display Makes A Video Walkie Talkie",
+          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/04/video-talkie-featured.jpg"
+        },
+        {
           "id": "https://hackaday.com/?p=771499",
           "author": "Maya Posch",
           "description": "An unavoidable part of old home computer systems and kin like the Commodore PET is that due to the age of their components they will develop issues that go far …read more",

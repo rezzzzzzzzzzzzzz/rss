@@ -1,11 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rezzzzzzzzzzzzzz.github.io/rss/index.html</id>
-    <title>osmos::feed</title>
-    <updated>2025-04-14T08:31:27.962Z</updated>
+    <title>Rezz::feed</title>
+    <updated>2025-04-15T08:24:58.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://rezzzzzzzzzzzzzz.github.io/rss/index.html"/>
     <link rel="self" href="https://rezzzzzzzzzzzzzz.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building A DIY Tornado Tower]]></title>
+        <id>https://hackaday.com/?p=771582</id>
+        <link href="https://hackaday.com/2025/04/14/building-a-diy-tornado-tower/"/>
+        <updated>2025-04-15T05:00:59.000Z</updated>
+        <summary type="html"><![CDATA[A tornado can be an awe-inspiring sight, but it can also flip your car, trash your house, and otherwise injure you with flying debris. If you’d like to look at …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plasmonic Modulators Directly Convert Terahertz Waves to Optical Signals]]></title>
+        <id>https://hackaday.com/?p=770448</id>
+        <link href="https://hackaday.com/2025/04/14/plasmonic-modulators-directly-convert-terahertz-waves-to-optical-signals/"/>
+        <updated>2025-04-15T02:00:45.000Z</updated>
+        <summary type="html"><![CDATA[A major bottleneck with high-frequency wireless communications is the conversion from radio frequencies to optical signals and vice versa. This is performed by an electro-optic modulator (EOM), which generally are …read more]]></summary>
+        <author>
+            <name>Maya Posch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elastic Bands Enable Touchable Volumetric Display]]></title>
+        <id>https://hackaday.com/?p=771069&amp;preview=true&amp;preview_id=771069</id>
+        <link href="https://hackaday.com/2025/04/14/elastic-bands-enable-touchable-volumetric-display/"/>
+        <updated>2025-04-14T23:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Amazing as volumetric displays are, they have one major drawback: interacting with them is complicated. A 3D mouse is nice, but unless you’ve done a lot of CAD work, it’s …read more]]></summary>
+        <author>
+            <name>Aaron Beckendorf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESP32-Powered Clock Brings Aviation Style To Your Desk]]></title>
+        <id>https://hackaday.com/?p=771581</id>
+        <link href="https://hackaday.com/2025/04/14/esp32-powered-clock-brings-aviation-style-to-your-desk/"/>
+        <updated>2025-04-14T20:00:47.000Z</updated>
+        <summary type="html"><![CDATA[There’s something cool about the visual design language used in the aviation world. You probably don’t get much exposure to it if you’re not regularly flying a plane, but there …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Converting the C64 Mini Into A C64C]]></title>
+        <id>https://hackaday.com/?p=771580</id>
+        <link href="https://hackaday.com/2025/04/14/converting-the-c64-mini-into-a-c64c/"/>
+        <updated>2025-04-14T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The C64 Mini is a beautiful and functional replica of the most popular computer ever made, except at 50% size and without a working keyboard. For maximum nostalgia, it was …read more]]></summary>
+        <author>
+            <name>Lewin Day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Fu: Stopping a Runaway]]></title>
+        <id>https://hackaday.com/?p=771616</id>
+        <link href="https://hackaday.com/2025/04/14/linux-fu-stopping-a-runaway/"/>
+        <updated>2025-04-14T17:00:11.000Z</updated>
+        <summary type="html"><![CDATA[The best kind of Hackaday posts are the ones where there was some insurmountable problem with an elegant solution devised through deep analysis of the problem and creativity. This is …read more]]></summary>
+        <author>
+            <name>Al Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cheap Yellow Display Makes A Video Walkie Talkie]]></title>
+        <id>https://hackaday.com/?p=771487</id>
+        <link href="https://hackaday.com/2025/04/14/a-cheap-yellow-display-makes-a-video-walkie-talkie/"/>
+        <updated>2025-04-14T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The ESP32 series of microprocessors with their cheap high-power cores and built-in wireless networking have brought us a wide variety of impressive projects over the years. We’re not sure we’ve …read more]]></summary>
+        <author>
+            <name>Jenny List</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Tricky Commodore PET Repair and a Lesson About Assumptions]]></title>
         <id>https://hackaday.com/?p=771499</id>
